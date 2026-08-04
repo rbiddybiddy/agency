@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 This is my summary / paraphrase of this blog post: ["Agency Is The Job Now"](https://www.drjoshcsimmons.com/writing/agency-is-the-job-now) Mostly I've managed to shorten and condense, although some sentences are copied verbatim, so sue me. (Ideas added by me that aren't in the original are in parentheses with my initials like this. -RC)
 
 ### Agency Is Primary
