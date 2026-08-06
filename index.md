@@ -7,7 +7,7 @@ This is my summary / paraphrase of this blog post: ["Agency Is The Job Now"](htt
 ### Agency Is Primary
 "High agency" is basically getting things done, by going around or through the obstacle, and doing whatever the goal requires. There's no checklist for it; it looks different every time. (But initiative, audacity, persistence, people skills and focus seem like core skills. -RC)
 
-AI has re-priced purely-technical expertise, and it won't be re-priced back. The thing whose price remained untouched is the part that was always valuable, agency. So (whereas the two previously were roughly equal in value up to a certain level in the org -RC), agency has definitively become primary. Being someone who's able to get a group pointed in a direction, able to mobilize people across a department, is worth more.
+AI has re-priced pure technical expertise, and it won't be re-priced back. The thing whose price remained untouched is the part that was always valuable, agency. So (whereas the two previously were roughly equal in value up to a certain level in the org -RC), agency has definitively become primary. Being someone who's able to get a group pointed in a direction, able to mobilize people across a department, is worth more.
 
 Besides AI, another trend driving this is orgs going toward a flat structure. Managers no longer have the time to challenge every initiative that crosses their desk. Put these two trends together and it means the world now belongs to people who can drive change on their own and lead technical initiatives without waiting for permission that's never coming.
 
